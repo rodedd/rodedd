@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Eduardo, a web developer. I'm currently improving my React skills and learning new things! 🤓  
+I'm Eduardo, I work as a software developer. I'm currently improving my React skills and learning new things about web development! 🤓  
 🇲🇽
 
 ### Things I code with
